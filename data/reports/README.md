@@ -13,6 +13,8 @@ This directory contains comprehensive visualizations and analysis results genera
   - Port usage patterns
   - Label distribution (security threats)
 
+![Traffic Overview](traffic_overview.png)
+
 ### `security_analysis.png`
 - **Description**: Security-focused analysis plots
 - **Contains**:
@@ -20,6 +22,8 @@ This directory contains comprehensive visualizations and analysis results genera
   - Threat distribution by type
   - Security event timeline
   - Risk assessment metrics
+
+![Security Analysis](security_analysis.png)
 
 ## 🌐 Interactive Dashboards (HTML)
 
