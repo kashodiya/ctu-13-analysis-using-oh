@@ -1,5 +1,7 @@
 # CTU-13 Dataset Analysis Tool
 
+> **🤖 AI-Developed Project**: This entire project was developed using [OpenHands](https://openhands.dev/), an AI software engineering platform. **No code in this repository was written by humans** - it represents a complete demonstration of AI-driven software development capabilities, from initial concept to production-ready cybersecurity analysis tool.
+
 A comprehensive cybersecurity analysis tool for the CTU-13 botnet dataset. This tool provides automated downloading, parsing, analysis, and visualization capabilities for network traffic analysis and threat intelligence.
 
 ## 🔍 Overview
